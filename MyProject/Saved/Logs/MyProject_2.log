@@ -732,3 +732,30 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.23-02.11.04:742][450]LogContentBrowser: Renaming the item being created (Deferred Item: NewMetaSoundSource).
 [2023.05.23-02.11.28:960][320]LogContentBrowser: Attempting asset rename: NewMetaSoundSource -> Poppin
 [2023.05.23-02.11.28:962][320]LogContentBrowser: End creating deferred item NewMetaSoundSource
+[2023.05.23-02.12.49:075][326]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/Sounds/Poppin.Poppin
+[2023.05.23-02.12.49:249][326]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.23-02.15.46:568][147]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.23-02.17.51:335][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.05.23-02.17.51:335][430]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.021
+[2023.05.23-02.17.51:336][430]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sounds/Poppin] ([1] browsable assets)...
+[2023.05.23-02.17.51:336][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sounds/Poppin]
+[2023.05.23-02.17.51:336][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Poppin" FILE="../../../../../../GitHub/CMPM151asg3/MyProject/Saved/Autosaves/Game/Sounds/Poppin_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.05.23-02.17.51:340][430]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.003952 seconds
+[2023.05.23-02.17.51:358][430]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sounds/Poppin_Auto1
+[2023.05.23-02.17.51:358][430]LogSavePackage: Moving '../../../../../../GitHub/CMPM151asg3/MyProject/Saved/Poppin_Auto16A7720694AB100DF9CFD3EB483B6DEAE.tmp' to '../../../../../../GitHub/CMPM151asg3/MyProject/Saved/Autosaves/Game/Sounds/Poppin_Auto1.uasset'
+[2023.05.23-02.17.51:360][430]LogFileHelpers: Auto-saving content packages took 0.024
+[2023.05.23-02.20.05:231][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Poppin" FILE="../../../../../../GitHub/CMPM151asg3/MyProject/Content/Sounds/Poppin.uasset" SILENT=true
+[2023.05.23-02.20.05:249][ 13]LogSavePackage: Moving output files for package: /Game/Sounds/Poppin
+[2023.05.23-02.20.05:249][ 13]LogSavePackage: Moving '../../../../../../GitHub/CMPM151asg3/MyProject/Saved/PoppinEE2CD3DB4BFF5382B0142B812BD76042.tmp' to '../../../../../../GitHub/CMPM151asg3/MyProject/Content/Sounds/Poppin.uasset'
+[2023.05.23-02.20.05:261][ 13]AssetCheck: New page: Asset Save: Poppin
+[2023.05.23-02.20.05:261][ 13]LogContentValidation: Display: Validating MetaSoundSource /Game/Sounds/Poppin.Poppin
+[2023.05.23-02.20.06:196][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Poppin" FILE="../../../../../../GitHub/CMPM151asg3/MyProject/Content/Sounds/Poppin.uasset" SILENT=true
+[2023.05.23-02.20.06:229][106]LogSavePackage: Moving output files for package: /Game/Sounds/Poppin
+[2023.05.23-02.20.06:230][106]LogSavePackage: Moving '../../../../../../GitHub/CMPM151asg3/MyProject/Saved/Poppin539C94DB4A9663EC909E08AB0AE22F81.tmp' to '../../../../../../GitHub/CMPM151asg3/MyProject/Content/Sounds/Poppin.uasset'
+[2023.05.23-02.20.06:240][106]AssetCheck: New page: Asset Save: Poppin
+[2023.05.23-02.20.06:240][106]LogContentValidation: Display: Validating MetaSoundSource /Game/Sounds/Poppin.Poppin
+[2023.05.23-02.20.09:892][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Poppin" FILE="../../../../../../GitHub/CMPM151asg3/MyProject/Content/Sounds/Poppin.uasset" SILENT=true
+[2023.05.23-02.20.09:910][505]LogSavePackage: Moving output files for package: /Game/Sounds/Poppin
+[2023.05.23-02.20.09:910][505]LogSavePackage: Moving '../../../../../../GitHub/CMPM151asg3/MyProject/Saved/PoppinDE3C158B4CDBAA3F77EFD690F12DD395.tmp' to '../../../../../../GitHub/CMPM151asg3/MyProject/Content/Sounds/Poppin.uasset'
+[2023.05.23-02.20.09:922][505]AssetCheck: New page: Asset Save: Poppin
+[2023.05.23-02.20.09:922][505]LogContentValidation: Display: Validating MetaSoundSource /Game/Sounds/Poppin.Poppin

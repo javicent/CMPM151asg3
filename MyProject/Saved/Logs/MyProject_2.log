@@ -759,3 +759,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.05.23-02.20.09:910][505]LogSavePackage: Moving '../../../../../../GitHub/CMPM151asg3/MyProject/Saved/PoppinDE3C158B4CDBAA3F77EFD690F12DD395.tmp' to '../../../../../../GitHub/CMPM151asg3/MyProject/Content/Sounds/Poppin.uasset'
 [2023.05.23-02.20.09:922][505]AssetCheck: New page: Asset Save: Poppin
 [2023.05.23-02.20.09:922][505]LogContentValidation: Display: Validating MetaSoundSource /Game/Sounds/Poppin.Poppin
+[2023.05.23-02.24.08:237][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Poppin" FILE="../../../../../../GitHub/CMPM151asg3/MyProject/Content/Sounds/Poppin.uasset" SILENT=true
+[2023.05.23-02.24.08:271][778]LogSavePackage: Moving output files for package: /Game/Sounds/Poppin
+[2023.05.23-02.24.08:272][778]LogSavePackage: Moving '../../../../../../GitHub/CMPM151asg3/MyProject/Saved/Poppin0725CD914BFE2B117A565288FCF63EFB.tmp' to '../../../../../../GitHub/CMPM151asg3/MyProject/Content/Sounds/Poppin.uasset'
+[2023.05.23-02.24.08:284][778]AssetCheck: New page: Asset Save: Poppin
+[2023.05.23-02.24.08:284][778]LogContentValidation: Display: Validating MetaSoundSource /Game/Sounds/Poppin.Poppin
